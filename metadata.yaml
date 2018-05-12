@@ -1,0 +1,28 @@
+_repo: The-Archaeology-of-the-Yakima-Valley_40167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Harlan Ingersoll
+    birthdate: 1872
+    deathdate: 1940
+    gutenberg_agent_id: '40452'
+    url: http://www.gutenberg.org/2009/agents/40452
+description: ''
+gutenberg_issued: '2012-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40167'
+  lccn: '11018966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcc 'GN'
+- !lcsh 'Yakima River Valley (Wash.) -- Antiquities'
+title: The Archaeology of the Yakima Valley
+url: http://www.gutenberg.org/ebooks/40167
